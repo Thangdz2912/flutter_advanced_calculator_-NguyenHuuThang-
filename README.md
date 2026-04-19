@@ -103,6 +103,10 @@
 - Các phép toán Bitwise
 - Kết quả hiển thị theo tất cả các hệ số
 
+
+### Testting 
+<img width="1916" height="727" alt="Screenshot 2026-04-19 153825" src="https://github.com/user-attachments/assets/0092d639-a25d-4e9f-b2c6-6b24b089dbd2" />
+
 ---
 
 ## 🏗️ Kiến Trúc Dự Án
