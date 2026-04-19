@@ -106,11 +106,8 @@
 
 ### Chế Độ Lập Trình Viên (Programmer Mode)
 
-```
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/aa8ffd74-2915-4e0a-b42f-3eda2f68d6e7" />
+<img width="742" height="994" alt="image" src="https://github.com/user-attachments/assets/29743cba-4886-43ec-9228-d97251645074" />
 
-
-```
 
 **Các tính năng hiển thị**:
 - Chuyển đổi giữa các hệ số (DEC, HEX, BIN, OCT)
