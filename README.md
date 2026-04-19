@@ -15,21 +15,6 @@
 
 ---
 
-## 📋 Mục Lục
-
-- [Giới Thiệu](#giới-thiệu)
-- [Tính Năng](#tính-năng)
-- [Ảnh Chụp Màn Hình](#ảnh-chụp-màn-hình)
-- [Kiến Trúc Dự Án](#kiến-trúc-dự-án)
-- [Cài Đặt](#cài-đặt)
-- [Hướng Dẫn Sử Dụng](#hướng-dẫn-sử-dụng)
-- [Hướng Dẫn Kiểm Thử](#hướng-dẫn-kiểm-thử)
-- [Hạn Chế Đã Biết](#hạn-chế-đã-biết)
-- [Cải Tiến Trong Tương Lai](#cải-tiến-trong-tương-lai)
-- [Hướng Dẫn Chụp Ảnh Chuyên Nghiệp](#hướng-dẫn-chụp-ảnh-chuyên-nghiệp)
-
----
-
 ## 📱 Giới Thiệu
 
 **Flutter Advanced Calculator** là một ứng dụng máy tính hiện đại được xây dựng với Flutter, cung cấp ba chế độ tính toán khác nhau để đáp ứng nhu cầu của bất kỳ người dùng nào - từ những phép tính đơn giản đến các phép tính khoa học phức tạp và lập trình nhị phân.
@@ -92,22 +77,8 @@
 ### Chế Độ Cơ Bản (Basic Mode)
 
 ```
-┌─────────────────────────────────────┐
-│  Advanced Calculator        🌙 📜   │
-├─────────────────────────────────────┤
-│  [Basic] [Scientific] [Programmer]  │
-├─────────────────────────────────────┤
-│                                 123 │
-│ ┌───────────────────────────────┐   │
-│ │ 123 = 123                   │   │
-│ │ 456 + 789                    │   │
-│ └───────────────────────────────┘   │
-├─────────────────────────────────────┤
-│  7    8    9    /    %              │
-│  4    5    6    ×    AC             │
-│  1    2    3    -    DEL            │
-│  0    .    =    +    M+ M- MR MC    │
-└─────────────────────────────────────┘
+<img width="1919" height="1079" alt="Screenshot 2026-04-19 151856" src="https://github.com/user-attachments/assets/ce352159-f010-430a-8fef-62802d4b41aa" />
+
 ```
 
 **Các tính năng hiển thị**:
@@ -119,23 +90,8 @@
 ### Chế Độ Khoa Học (Scientific Mode)
 
 ```
-┌─────────────────────────────────────┐
-│  Advanced Calculator        🌙 📜   │
-├─────────────────────────────────────┤
-│  [Basic] [Scientific] [Programmer]  │
-├─────────────────────────────────────┤
-│                            123.456  │
-│ ┌───────────────────────────────┐   │
-│ │ sin(π/2) = 1                  │   │
-│ │ Hyp  Rad                       │   │
-│ └───────────────────────────────────┘   │
-├─────────────────────────────────────┤
-│  sin  cos  tan  +   -              │
-│  ln   log  e^x  ×   /              │
-│  √    ∛    π    %   =              │
-│  !    x²   x^y  (   )              │
-│  AC   DEL  M+   M-   MR   MC       │
-└─────────────────────────────────────┘
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/352d9a1d-b175-4942-9403-d04e97bbe1d7" />
+
 ```
 
 **Các tính năng hiển thị**:
@@ -147,23 +103,8 @@
 ### Chế Độ Lập Trình Viên (Programmer Mode)
 
 ```
-┌─────────────────────────────────────┐
-│  Advanced Calculator        🌙 📜   │
-├─────────────────────────────────────┤
-│  [Basic] [Scientific] [Programmer]  │
-├─────────────────────────────────────┤
-│  DEC: 255  HEX: FF                 │
-│  BIN: 11111111  OCT: 377           │
-│ ┌───────────────────────────────┐   │
-│ │ 255 & 15 = 15                │   │
-│ └───────────────────────────────────┘   │
-├─────────────────────────────────────┤
-│  AND  OR   XOR  NOT  <<  >>        │
-│  7    8    9    /    %              │
-│  4    5    6    ×    AC             │
-│  1    2    3    -    DEL            │
-│  0    .    =    +    M+ M- MR MC    │
-└─────────────────────────────────────┘
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f6311ee2-daa3-4050-8b71-f2a0f77ca3fe" />
+
 ```
 
 **Các tính năng hiển thị**:
