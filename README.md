@@ -106,7 +106,7 @@
 
 ### Chế Độ Lập Trình Viên (Programmer Mode)
 
-<img width="742" height="994" alt="image" src="https://github.com/user-attachments/assets/29743cba-4886-43ec-9228-d97251645074" />
+<img width="742" height="994" alt="image" src="https://github.com/user-attachments/assets/145c60b7-5656-4a2d-bc3a-61c03037d12e" />
 
 
 **Các tính năng hiển thị**:
