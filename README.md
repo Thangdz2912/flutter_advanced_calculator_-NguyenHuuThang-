@@ -103,7 +103,8 @@
 ### Chế Độ Lập Trình Viên (Programmer Mode)
 
 ```
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f6311ee2-daa3-4050-8b71-f2a0f77ca3fe" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/aa8ffd74-2915-4e0a-b42f-3eda2f68d6e7" />
+
 
 ```
 
