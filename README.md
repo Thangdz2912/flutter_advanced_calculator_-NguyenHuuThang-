@@ -75,11 +75,8 @@
 ## 📸 Ảnh Chụp Màn Hình
 
 ### Chế Độ Cơ Bản (Basic Mode)
+<img width="747" height="991" alt="image" src="https://github.com/user-attachments/assets/b940afa4-6706-45cc-b000-92d65f8fa2f9" />
 
-```
-<img width="1919" height="1079" alt="Screenshot 2026-04-19 151856" src="https://github.com/user-attachments/assets/ce352159-f010-430a-8fef-62802d4b41aa" />
-
-```
 
 **Các tính năng hiển thị**:
 - Phép tính đơn giản
@@ -88,15 +85,7 @@
 - Các nút đối xứng và dễ sử dụng
 
 ### Chế Độ Khoa Học (Scientific Mode)
-
-
-<img width="1919" height="1079" alt="Screenshot 2026-04-19 152901" src="https://github.com/user-attachments/assets/501f3f3d-e73b-41a8-8554-2317c67e7449" />
-
-
-```
-
-
-```
+<img width="764" height="1012" alt="image" src="https://github.com/user-attachments/assets/89ec90b4-19e2-4034-b3f5-22726562a6c4" />
 
 **Các tính năng hiển thị**:
 - Các hàm lượng giác (sin, cos, tan)
