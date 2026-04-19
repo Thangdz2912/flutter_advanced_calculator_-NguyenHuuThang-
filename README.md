@@ -94,8 +94,8 @@
 - Nút chế độ Hyp (Hyperbolic) và Rad (Radian)
 
 ### Chế Độ Lập Trình Viên (Programmer Mode)
+<img width="745" height="973" alt="image" src="https://github.com/user-attachments/assets/d8d1963d-b9b0-4827-a85e-2124c6f0e9ed" />
 
-<img width="742" height="994" alt="image" src="https://github.com/user-attachments/assets/145c60b7-5656-4a2d-bc3a-61c03037d12e" />
 
 
 **Các tính năng hiển thị**:
