@@ -88,7 +88,10 @@
 - Các nút đối xứng và dễ sử dụng
 
 ### Chế Độ Khoa Học (Scientific Mode)
-<img width="1919" height="1079" alt="Screenshot 2026-04-19 152915" src="https://github.com/user-attachments/assets/76e8783d-c715-4907-8885-8c107f38f13c" />
+
+
+<img width="1919" height="1079" alt="Screenshot 2026-04-19 152901" src="https://github.com/user-attachments/assets/501f3f3d-e73b-41a8-8554-2317c67e7449" />
+
 
 ```
 
