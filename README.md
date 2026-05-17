@@ -14,24 +14,6 @@
 </div>
 
 ---
-## Ảnh demmo
-##danh sách tất cả các bài hát 
-
-<img width="617" height="887" alt="Screenshot 2026-05-17 131851" src="https://github.com/user-attachments/assets/aec49736-43be-4e3f-b85e-1fe957370a96" />
-
-Màn hình  playlisht
-<img width="603" height="881" alt="Screenshot 2026-05-17 131913" src="https://github.com/user-attachments/assets/8069f0c0-3003-43c3-b703-e04cd297cbb1" />
-
-màn hình chi tiết bài hát
-
-<img width="602" height="882" alt="Screenshot 2026-05-17 131856" src="https://github.com/user-attachments/assets/4ddf6cff-fc31-4ec7-a139-b34b8ab61828" />
-
-màn hình cài đặt 
-
-
-<img width="617" height="890" alt="Screenshot 2026-05-17 131920" src="https://github.com/user-attachments/assets/3192d0da-2c9e-4403-b285-f7d23da65e3e" />
-
-
 
 
 ## 📱 Giới Thiệu
